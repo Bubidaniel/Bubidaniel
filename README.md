@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a few personal projects
-- 🌱 Currently learning Data Science and Machine learning.
+- 🌱 Learning Data Science and Machine learning.
 - 📫 How to reach me: bubidaniel101@gmail.com
 - ⚡ Fun fact: Technology is the ⚡ ⚡ ⚡ ⚡ ⚡ 
 
